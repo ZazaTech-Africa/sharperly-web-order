@@ -6,7 +6,7 @@ export default function Form() {
   }
 
   return (
-    <div className="mt-10">
+    <div className="mt-10 w-full">
       <form
         action=""
         onSubmit={handleSubmit}
